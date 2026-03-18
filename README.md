@@ -60,9 +60,11 @@ Outside of the professional environment, I nurture a unique passion: creating "a
 ---
 
 ## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat\&logo=instagram)](https://instagram.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat\&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat\&logo=twitter)](https://twitter.com/yourusername)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/yourusername)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge\&logo=hackerrank\&logoColor=black)](https://hackerrank.com/yourusername)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge\&logo=hackerearth\&logoColor=white)](https://hackerearth.com/@yourusername)
 ---
+> "The magic that you looking for, that is always in the work that you skip." — Nb
+---
+
