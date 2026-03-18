@@ -18,18 +18,44 @@ Outside of the professional environment, I nurture a unique passion: creating "a
 
 ## 🧰 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat\&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat\&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat\&logo=css3)
-![React](https://img.shields.io/badge/-React-black?style=flat\&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat\&logo=vue.js)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat\&logo=next.js)
-![SASS](https://img.shields.io/badge/-SASS-black?style=flat\&logo=sass)
-![LESS](https://img.shields.io/badge/-LESS-black?style=flat\&logo=less)
-![Styled Components](https://img.shields.io/badge/-Styled--Components-black?style=flat\&logo=styled-components)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat\&logo=postman)
-![Babel](https://img.shields.io/badge/-Babel-black?style=flat\&logo=babel)
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### ⚙️ Frameworks
+
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge\&logo=jasmine\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+
+### 🛠️ Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+
+### 🧑‍💻 Platforms & IDEs
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge\&logo=pycharm\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+
+### 📊 Productivity Tools
+
+![Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge\&logo=microsoftword\&logoColor=white)
+![Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/MS_PowerPoint-B7472A?style=for-the-badge\&logo=microsoftpowerpoint\&logoColor=white)
 
 ---
 
@@ -41,7 +67,7 @@ Outside of the professional environment, I nurture a unique passion: creating "a
 
 ---
 
-> "Do, or do not. There is no try." — Yoda
+> "The magic that you looking for, that is always in the work that you ignore." — Nb
 
 ---
 
