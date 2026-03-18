@@ -1,4 +1,4 @@
-# 👋 Hi there
+# 👋 Adios amigo
 
 I'm **Nagababu nivas**, a passionate software developer and tech enthusiast. I currently work as a **Associate Software Engineer in Production at Capgemini Technology**. I've had the opportunity to work on exciting projects and explore various technologies.
 
