@@ -66,27 +66,3 @@ Outside of the professional environment, I nurture a unique passion: creating "a
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat\&logo=twitter)](https://twitter.com/yourusername)
 
 ---
-
-> "The magic that you looking for, that is always in the work that you ignore." — Nb
-
----
-
-## 📊 GitHub Stats (Optional)
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=dark)
-
----
-
-## 🔥 Contribution Streak (Optional)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername\&theme=dark)
-
----
-
-## 💡 How to Use
-
-1. Replace **Your Name**, company, and experience.
-2. Update social links.
-3. Add/remove tech badges as needed.
-4. Replace `yourusername` with your GitHub username.
-5. Save this as `README.md` in a repo named exactly your GitHub username.
