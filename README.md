@@ -62,7 +62,7 @@ Outside of the professional environment, I nurture a unique passion: creating "a
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourusername)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/yourusername)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge\&logo=hackerrank\&logoColor=black)](https://hackerrank.com/yourusername)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge\&logo=hackerrank\&logoColor=black)](https://www.hackerrank.com/profile/blockchain_proto)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge\&logo=hackerearth\&logoColor=white)](https://hackerearth.com/@yourusername)
 ---
 > "The magic that you looking for, that is always in the work that you skip." — Nb
