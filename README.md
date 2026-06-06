@@ -6,13 +6,9 @@ I'm **Nagababu nivas**, a passionate software developer and tech enthusiast. I c
 
 ## 🚀 Expertise
 
-Passionate about crafting interactive and intuitive user experiences. I specialize in front-end web development, combining modern frameworks with best practice design patterns. With almost X years dedicated to honing my skills in front-end technologies, I've led teams, designed system guidelines, and upheld the highest standards in web performance and SEO.
+Passionate about building intuitive and engaging user experiences through modern front-end technologies. I enjoy transforming ideas into fast, responsive, and accessible web applications while following clean design and development practices.
 
-In my professional journey, I've proudly served as a Front-end Technical Lead as well as a role where my technical expertise met the challenges of team management. Beyond crafting top-tier user interfaces, I embraced leadership responsibilities, guiding my team with strategic oversight and ensuring projects were executed efficiently.
-
-In addition to my professional pursuits, I've embraced the role of a "content creator" within the technology sphere. My approach is distinct: I aim to offer a fresh perspective on tech, blending insights with a dash of humor.
-
-Outside of the professional environment, I nurture a unique passion: creating "art" using exclusively CSS. This activity not only sharpens my technical prowess but also allows me to blend programming and creativity in a uniquely captivating way.
+Beyond coding, I love sharing tech insights with a touch of humor and exploring the creative side of development through CSS art, where design and code come together in unique ways.
 
 ---
 
